@@ -1,0 +1,6 @@
+{
+  "name": "Uriel — Clarity in Data",
+  "description": "Minimalist landing page hero for Uriel, featuring clean typography in Manrope and Fira Code italics with a warm ambient aura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
